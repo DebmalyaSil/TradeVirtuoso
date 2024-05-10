@@ -1,7 +1,7 @@
 # Hackfest-24
 # Team: HeckerHaiBhaiHecker
 # Members:
-1. Anurag Gupta
+1. Anurag Kumar
 2. Debmalya Sil
 3. Evanshu Jain
 4. Kumar Pratik
