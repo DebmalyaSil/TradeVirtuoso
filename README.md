@@ -34,8 +34,7 @@ value of their contributions and help others gain a deeper understanding of stoc
    c)Design a resistance, support recognition system to identify good entry and exit points in a stock.
    d)Design a breakout detection system to identify potential bullish/bearish breakouts in a stock.
    e)Sentiment analysis using NLP.
-
-2). Web Development:
+2. Web Development:
    a) Design the frontend of the website including home page with sections like create post, see others' posts etc., profile page to view any user's profile, like, bookmark, follow           options etc., learning playground which will redirect to the stock learner's simulator.
    b) Design the authentication page for a better experience for all users.
    c) Work on the backend of the entire page.
