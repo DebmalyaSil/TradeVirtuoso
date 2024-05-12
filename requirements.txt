@@ -1,0 +1,14 @@
+matplotlib==3.8.0
+mplfinance==0.12.10b0
+numpy==1.26.4
+pandas==2.2.2
+pandas_datareader==0.11.0.dev55+ga1cf7a2
+pandas_ta==0.3.14b0
+plotly==5.9.0
+scikit_learn==1.2.2
+scipy==1.11.4
+streamlit==1.30.0
+streamlit==1.34.0
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+yfinance==0.2.38
