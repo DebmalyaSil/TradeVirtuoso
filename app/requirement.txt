@@ -11,4 +11,23 @@ streamlit==1.34.0
 tensorflow==2.16.1
 tensorflow_intel==2.16.1
 yfinance==0.2.38
+feedparser
+image
+ImageHash
+json5
+jsonschema
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pyftpdlib
+pandas-datareader
+Pillow
+plotly
+requests
+requests-html
+streamlit
+yahoo-fin
+requests_html
+beautifulsoup4
 -r dependencylinks.txt
