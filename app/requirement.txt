@@ -30,4 +30,4 @@ streamlit
 yahoo-fin
 requests_html
 beautifulsoup4
--r dependencylinks.txt
+-r dependency_links.txt
