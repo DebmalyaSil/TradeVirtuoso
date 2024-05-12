@@ -16,18 +16,9 @@ image
 ImageHash
 json5
 jsonschema
-matplotlib
 matplotlib-inline
-numpy
-pandas
 pyftpdlib
 pandas-datareader
-Pillow
-plotly
-requests
-requests-html
-streamlit
-yahoo-fin
 requests_html
 beautifulsoup4
 -r dependency_links.txt
