@@ -60,7 +60,7 @@ def lstmpred(df):
     y_test = sc2.fit_transform(y_test)
     
     from tensorflow.keras.models import load_model
-    model = load_model('LSTMtechnicalind32_75_r.keras')
+    model = load_model('model')
     
     y_pred = model.predict(X_test)
     #y_pred=np.where(y_pred > 0.43, 1,0)
